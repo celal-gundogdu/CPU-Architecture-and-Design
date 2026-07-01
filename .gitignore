@@ -1,0 +1,13 @@
+# Vivado temporary and log files
+*.jou
+*.log
+*.pb
+*.wdb
+*.str
+*.dir/
+xsim.dir/
+.Xil/
+
+# Generated simulation reports
+debug.txt
+evaluation.csv
